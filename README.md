@@ -6,6 +6,12 @@ Technologies like deep learning are here to change that, and to teach computers 
 
 In this project, we shall explore deep learning, FNN, PCA, GD, CNN, RNN, encoder-decoder models.
 
+# Team Members
+- Abhijeet Verma
+- Aniruddh Pramod
+- Gauravi Chandak
+- Mohika Agarwal
+
 # Week 1 - Setup
 The goal for this week is to learn the basics of Python, Numpy, Pandas and Matplotlib and come up with guides to explain the same. 
 

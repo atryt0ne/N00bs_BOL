@@ -22,5 +22,11 @@ A simple implementation of a perceptron was made in Python which took in three i
 # Week 3 - Building a Neural Net
 A more involved discussion on how a neural network works - Perceptrons and Hidden Layers, Loss Functions, Gradient Descents. The task for this week was to build a single layer neural network.
 
+# Week 4 - Understanding Tensorflow and Evaluating a Neural Net
+We explored the functions and methods available in the Tensorflow library and also understod how one measure's the performance and training of a Neural Network
+
+# Week 5 - Applications
+We implemented a CNN on the MNIST dataset, and then attempted a more advanced model by implementing an RNN for Music Generation.
+
 ***
 This project was offered by the Brain and Cognitive Society of IIT Kanpur over the summer of 2022.
